@@ -26,24 +26,28 @@ return [
                 [
                     "permission_id" => 1,
                     "name" => "edit posts",
-                    "label" => "Edit"
+                    "label" => "Edit",
+                    "status" => 1
                 ],
                 [
                     "permission_id" => 2,
                     "name" => "delete posts",
-                    "label" => "Delete"
+                    "label" => "Delete",
+                    "status" => 1
                 ]
             ],
             "other_permissions" => [
                 [
                     "permission_id" => 1,
                     "name" => "edit posts",
-                    "label" => "Edit"
+                    "label" => "Edit",
+                    "status" => 1
                 ],
                 [
                     "permission_id" => 2,
                     "name" => "delete posts",
-                    "label" => "Delete"
+                    "label" => "Delete",
+                    "status" => 1
                 ]
             ],
         ]
